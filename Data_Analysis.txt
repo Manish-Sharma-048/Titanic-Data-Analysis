@@ -1,0 +1,97 @@
+Titanic Data	
+	
+Total no. of passengers (Gender wise)	
+Male		577
+Female		314
+Total		891
+-----
+	
+Total no of passengers survived	
+Females		233
+Males		109
+Total		342
+-----
+	
+Survived passengers with Sib/Sp	
+0		210
+1		112
+2		13
+3		4
+4		3
+Total		342
+-----
+	
+Survived passengers with Par/Ch	
+0		233
+1		65
+2		40
+3		3
+5		1
+Total		342
+-----
+	
+Survived passengers age (Avg, Min, Quantiles & Max)	
+Min. age	0.42
+25%		19
+50%		28
+75%		36
+Max. age	80
+-----
+	
+Survived Passengers (class wise)	
+1		136
+2		87
+3		119
+Total		342
+-----
+	
+Survived 1st class passengers (gender wise)	
+Females		91
+Males		45
+Total		136
+-----
+	
+Survived 2nd class passengers (gender wise)	
+Females		70
+Males		17
+Total		87
+-----
+	
+Survived 3rd class passengers (gender wise)	
+Females		72
+Males		47
+Total		119
+-----
+
+No. of survived passengers embarked from "C"		
+			Survived	Didn't survive
+Females (1st class)	42		1
+Females (2nd class)	7		0
+Females (3rd class)	15		8
+Males (1st class)	17		25
+Males (2nd class)	2		8
+Males (3rd class)	10		33
+Total			93		75
+-----
+		
+No. of survived passengers embarked from "Q"		
+			Survived	Didn't Survive
+Females (1st class)	1		0
+Females (2nd class)	2		0
+Females (3rd class)	24		9
+Males (1st class)	0		1
+Males (2nd class)	0		1
+Males (3rd class)	3		36
+Total			30		47
+-----
+		
+No. of survived passengers embarked from "S"		
+			Survived	Didn't Survive
+Females (1st class)	46		2
+Females (2nd class)	61		6
+Females (3rd class)	33		55
+Males (1st class)	28		51
+Males (2nd class)	15		82
+Males (3rd class)	34		231
+Total			217		427
+-----
